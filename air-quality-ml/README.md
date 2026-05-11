@@ -1,4 +1,4 @@
-#  Air Quality Prediction System (AI Project)
+# 🏭 Air Quality Prediction System (AI Project)
 
 ##  Project Overview
 
@@ -8,7 +8,7 @@ The goal is to demonstrate how artificial intelligence can be used in environmen
 
 ---
 
-##  Problem Statement
+## 📜 Problem Statement
 
 Air pollution is a critical environmental issue affecting public health and climate conditions.
 
@@ -19,7 +19,7 @@ This project aims to:
 
 ---
 
-##  Machine Learning Approach
+## 🤖 Machine Learning Approach
 
 The project uses supervised machine learning to perform regression on air quality data.
 
@@ -37,7 +37,7 @@ The project uses supervised machine learning to perform regression on air qualit
 
 ---
 
-##  Features Used
+## ✨ Features Used
 
 The model uses the following input features:
 
@@ -72,7 +72,7 @@ air-quality-ml/
 
 ---
 
-##  Installation
+## ⬇️ Installation
 
 ### 1. Clone the repository
 ```bash
@@ -87,7 +87,7 @@ pip install -r requirements.txt
 ```
 ---
 
-## How to Run
+## 🚀 How to Run
 
 Run the main script:
 
@@ -95,7 +95,7 @@ Run the main script:
 
 ---
 
-## Output
+## 📤Output
 
 The system provides:
 
@@ -121,7 +121,7 @@ Predicted PM2.5 = 67.42
 ```
 ---
 
-## Model Evaluation Metrics
+## 📊 Model Evaluation Metrics
 
 The model is evaluated using:
 
@@ -130,7 +130,7 @@ The model is evaluated using:
 
 --- 
 
-## Real-World Applications
+## 🌍 Real-World Applications
 
 This project demonstrates concepts that can be applied in:
 
@@ -142,7 +142,7 @@ This project demonstrates concepts that can be applied in:
 
 ---
 
-## Technologies Used
+## 💻 Technologies Used
 - Python 
   - Pandas
   - Scikit-learn
@@ -150,14 +150,14 @@ This project demonstrates concepts that can be applied in:
 
 ---
 
-## Future Improvements
+## 🎯 Future Improvements
 - Integration with real-time air quality APIs
 - Web interface using Flask or FastAPI
 - Deep learning models for higher accuracy
 - Deployment to cloud (AWS / Heroku)
 - Mobile-friendly dashboard
   
-## Author
+## 👩🏻‍💻 Author
 
 Project developed for educational and portfolio purposes to demonstrate practical machine learning skills in environmental data analysis.
 
