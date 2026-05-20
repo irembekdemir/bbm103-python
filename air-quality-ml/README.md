@@ -8,7 +8,7 @@ The goal is to demonstrate how artificial intelligence can be used in environmen
 
 ---
 
-## 📜 Problem Statement
+## Problem Statement
 
 Air pollution is a critical environmental issue affecting public health and climate conditions.
 
@@ -19,7 +19,7 @@ This project aims to:
 
 ---
 
-## 🤖 Machine Learning Approach
+## Machine Learning Approach
 
 The project uses supervised machine learning to perform regression on air quality data.
 
@@ -95,7 +95,7 @@ Run the main script:
 
 ---
 
-## 📤Output
+## Output
 
 The system provides:
 
@@ -130,7 +130,7 @@ The model is evaluated using:
 
 --- 
 
-## 🌍 Real-World Applications
+## Real-World Applications
 
 This project demonstrates concepts that can be applied in:
 
@@ -142,7 +142,7 @@ This project demonstrates concepts that can be applied in:
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 - Python 
   - Pandas
   - Scikit-learn
@@ -157,9 +157,9 @@ This project demonstrates concepts that can be applied in:
 - Deployment to cloud (AWS / Heroku)
 - Mobile-friendly dashboard
   
-## 👩🏻‍💻 Author
+## Author
 
-Project developed for educational and portfolio purposes to demonstrate practical machine learning skills in environmental data analysis.
+Built as an educational AI project combining machine learning concepts with experimental vibe coding workflows.
 
 ## License
 
