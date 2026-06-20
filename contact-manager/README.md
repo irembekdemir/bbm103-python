@@ -4,13 +4,13 @@ A simple command-line contact management system built in Python.
 Users can add, view, edit, and delete contacts through a menu-driven interface.
 
 ## ✨ Features  
-➕ Add new contacts (Name, Phone, Email, Country)  
-📋 View all contacts in a formatted table  
-✏️ Edit existing contacts (search by name or partial match)  
-🗑️ Delete contacts with confirmation  
-🔍 Smart search (partial name matching supported)  
-⚠️ Input validation (phone number, empty fields, cancel option)  
-🧠 Data Structure  
+- Add new contacts (Name, Phone, Email, Country)  
+- View all contacts in a formatted table  
+- Edit existing contacts (search by name or partial match)  
+- Delete contacts with confirmation  
+- Smart search (partial name matching supported)  
+- Input validation (phone number, empty fields, cancel option)  
+- Data Structure  
 
 - Contacts are stored as a list of dictionaries:
 ```
