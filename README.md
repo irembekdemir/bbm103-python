@@ -14,7 +14,7 @@ A charming desktop task organizer featuring a light pastel aesthetic.
 - **Key Feature:** Automates spreadsheet updates by compiling active tasks into a color-coded, custom-styled Excel sheet (`todo_list.xlsx`) saved directly to your desktop.
 - **Highlights:** Dynamic checklist widget destruction on removal and auto-fitted Excel table dimensions using `openpyxl`.
 
-### 2. Smart Shopping Cart System 🛒 (`smart-cart`)
+### 2. Smart Shopping Cart System 🛒 (`shopping-cart`)
 An advanced, multi-featured shopping cart software that bridges modular business logic with a desktop layout.
 - **Interface:** Built using Python's comprehensive **PyQt5** framework with customized CSS injection for a sleek corporate layout.
 - **Logic Matrix:** Integrates algorithmic discounts for bulk purchases (quantity > 3), automatic price tagging for promotional items, and conditional verification codes (`WELCOME10`, `SAVE20`, etc.).
