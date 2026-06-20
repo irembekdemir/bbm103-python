@@ -1,0 +1,75 @@
+# Python Beginner Projects Collection 🚀
+
+Welcome to my Python playground! This repository is a curated collection of beginner to lower-intermediate Python projects. It spans from robust command-line interface (CLI) applications with strict error-handling loops to modern Graphical User Interface (GUI) desktop software built with `CustomTkinter` and `PyQt5`.
+
+Each project focuses on clean code practices, logical data structures, and user-centric designs.
+
+---
+
+## 📂 Project Showcases
+
+### 1. Cute To-Do List Application ✨ (`cute-todo-app`)
+A charming desktop task organizer featuring a light pastel aesthetic.
+- **Interface:** Built with `CustomTkinter` for a smooth, modern visual layout.
+- **Key Feature:** Automates spreadsheet updates by compiling active tasks into a color-coded, custom-styled Excel sheet (`todo_list.xlsx`) saved directly to your desktop.
+- **Highlights:** Dynamic checklist widget destruction on removal and auto-fitted Excel table dimensions using `openpyxl`.
+
+### 2. Smart Shopping Cart System 🛒 (`smart-cart`)
+An advanced, multi-featured shopping cart software that bridges modular business logic with a desktop layout.
+- **Interface:** Built using Python's comprehensive **PyQt5** framework with customized CSS injection for a sleek corporate layout.
+- **Logic Matrix:** Integrates algorithmic discounts for bulk purchases (quantity > 3), automatic price tagging for promotional items, and conditional verification codes (`WELCOME10`, `SAVE20`, etc.).
+- **Highlights:** Uses strict input type-guards (`is_int`, `is_float`) to ensure data sanitization.
+
+### 3. Simple Contact Manager 📇 (`contact-manager`)
+A command-line terminal application built around structural dictionary-to-list matching.
+- **Interface:** Interactive, looped Command-Line Interface (CLI).
+- **Key Feature:** Uses a tuple-based configuration matrix (`CONTACT_INFOS`) to dynamically parse custom attributes (Name, Phone, Email, Country) across addition, editing, and visualization modules.
+- **Highlights:** Built-in error boundary loops ensuring strict inputs (e.g., telephone inputs isolated to exactly 11 numeric characters).
+
+---
+
+## 🛠️ Global Core Technologies
+
+- **Core Engine:** Python 3.14 (or Python 3.x)
+- **GUI Frameworks:** PyQt5, CustomTkinter
+- **Data Engineering:** OpenPyXL (Excel engine)
+- **System Utilities:** Native `sys` streams, OS paths
+
+---
+
+## 🚀 Environment Setup & Deployment
+
+Every project inside this collection is optimized to run efficiently within separate local sandboxes.
+
+1. **Clone the entire portfolio:**
+   ```bash
+   git clone [https://github.com/irembekdemir/python-beginner-projects.git](https://github.com/irembekdemir/python-beginner-projects.git)
+   cd python-beginner-projects
+   ```
+
+2. **Navigate to your chosen project folder:**
+
+```bash
+# Example for the Shopping Cart
+cd folder_name_of_smart_cart
+```
+
+3. **Establish a lightweight virtual sandbox:**
+
+```bash
+python -m venv venv
+source venv/Scripts/activate  # On Windows: venv\Scripts\activate
+```
+
+4. **Install necessary project requirements:**
+
+```bash
+# For GUI applications
+pip install PyQt5         # if running the Smart Cart
+pip install customtkinter openpyxl  # if running the Cute To-Do App
+```
+
+✍️ Developer Profile
+@irembekdemir
+
+
