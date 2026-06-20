@@ -29,8 +29,8 @@ Make sure you have Python installed on your system.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/irembekdemir/todo_list_app.git](https://github.com/irembekdemir/todo_list_app.git)
-   cd todo_list_app.py
+   git clone [https://github.com/irembekdemir/python-beginner-projects.git](https://github.com/irembekdemir/python-beginner-projects.git)
+   cd python-beginner-projects/cute-todo-app
    ```
 
 2. **Create a virtual environment ( Recommended, RAM Friendly :D ):**
@@ -66,3 +66,15 @@ Mac/Linux:
 ## 📄 License
 This project is open-source and available under the MIT License.
 
+## 🤖 AI Assistance
+
+This project was developed with the collaborative assistance of **Gemini** (Google AI) for educational purposes. AI was utilized as a peer-programming partner for:
+- Structuring the object-oriented `CustomTkinter` interface layout.
+- Designing the color palettes and refining the `openpyxl` style definitions for the Excel export functionality.
+
+## ✍️ Author
+
+- **İrem Bekdemir** - *Initial Work & Development* - [irembekdemir](https://github.com/irembekdemir)
+
+---
+*Feel free to star ⭐ this repository if you liked the cute pastel theme!*
