@@ -77,4 +77,4 @@ This project was developed with the collaborative assistance of **Gemini** (Goog
 - **İrem Bekdemir** - *Initial Work & Development* - [irembekdemir](https://github.com/irembekdemir)
 
 ---
-*Feel free to star ⭐ this repository if you liked the cute pastel theme!*
+*Feel free to star ⭐ this repository if you liked the cute colorful theme!*
