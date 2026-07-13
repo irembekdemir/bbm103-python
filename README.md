@@ -1,6 +1,6 @@
-# Python Beginner Projects Collection 🚀
+# Python Beginner Projects Collection 
 
-Welcome to my Python playground! This repository is a curated collection of beginner to lower-intermediate Python projects. It spans from robust command-line interface (CLI) applications with strict error-handling loops to modern Graphical User Interface (GUI) desktop software built with `CustomTkinter` and `PyQt5`.
+Welcome to my Python playground! This repository is created as the repository of my coursework durin HU CS/AI BBM101-103 journey. Later on I'll be adding new beginner friendly project. Stay tuned!
 
 Each project focuses on clean code practices, logical data structures, and user-centric designs.
 
