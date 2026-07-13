@@ -1,6 +1,6 @@
 # Python Beginner Projects Collection 
 
-Welcome to my Python playground! This repository is created as the repository of my coursework during HU CS/AI BBM101-103 journey. Later on I'll be adding new beginner friendly project. Stay tuned!
+Welcome to my Python playground! This repository is created as the repository of my coursework during HU CS/AI BBM101-103 journey. Later on I'll be adding new beginner friendly projects. Stay tuned!
 
 Each project focuses on clean code practices, logical data structures, and user-centric designs.
 
