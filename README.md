@@ -20,14 +20,7 @@ An advanced, multi-featured shopping cart software that bridges modular business
 - **Logic Matrix:** Integrates algorithmic discounts for bulk purchases (quantity > 3), automatic price tagging for promotional items, and conditional verification codes (`WELCOME10`, `SAVE20`, etc.).
 - **Highlights:** Uses strict input type-guards (`is_int`, `is_float`) to ensure data sanitization.
 - **Note:** *The foundational PyQt5 GUI template was provided by the course instructor; all core computational backend functions, cart control algorithms, and logic integrations were independently engineered and implemented by me.*
-  
-### 3. Cute To-Do List Application ✨ (`cute-todo-app`)
-A charming desktop task organizer featuring a light pastel aesthetic.
-- **Interface:** Built with `CustomTkinter` for a smooth, modern visual layout.
-- **Key Feature:** Automates spreadsheet updates by compiling active tasks into a color-coded, custom-styled Excel sheet (`todo_list.xlsx`) saved directly to your desktop.
-- **Highlights:** Dynamic checklist widget destruction on removal and auto-fitted Excel table dimensions using `openpyxl`.
-- **Note:** *The CustomTkinter GUI layout, widget structures were co-designed and generated using AI (Gemini) assistance, while the complete app architecture, environment structure, and spreadsheet automation logic were implemented by me.*
-  
+
 ---
 
 ## 🛠️ Global Core Technologies
