@@ -6,7 +6,7 @@ Each project focuses on clean code practices, logical data structures, and user-
 
 ---
 
-## 📂 Project Showcases
+## Project Showcases
 
 ### 1. Simple Contact Manager 📇 (`contact-manager`)
 A command-line terminal application built around structural dictionary-to-list matching.
@@ -23,7 +23,7 @@ An advanced, multi-featured shopping cart software that bridges modular business
 
 ---
 
-## 🛠️ Global Core Technologies
+## Global Core Technologies
 
 - **Core Engine:** Python 3.14 (or Python 3.x)
 - **GUI Frameworks:** PyQt5, CustomTkinter
@@ -32,7 +32,7 @@ An advanced, multi-featured shopping cart software that bridges modular business
 
 ---
 
-## 🚀 Environment Setup & Deployment
+## Environment Setup & Deployment
 
 Every project inside this collection is optimized to run efficiently within separate local sandboxes.
 
@@ -64,7 +64,7 @@ pip install PyQt5         # if running the Smart Cart
 pip install customtkinter openpyxl  # if running the Cute To-Do App
 ```
 
-✍️ Developer Profile
+Developer Profile
 @irembekdemir
 
 
