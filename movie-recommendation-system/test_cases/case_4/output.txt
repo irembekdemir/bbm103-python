@@ -1,0 +1,8 @@
+Recommendations for alice:
+1. Dune (rated 5/5 by similar users: bob)
+2. Parasite (rated 4/5 by similar users: carol)
+
+Recommendations for bob:
+1. Parasite (rated 4/5 by similar users: carol)
+
+Recommendations for carol:

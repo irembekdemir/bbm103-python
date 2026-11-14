@@ -1,0 +1,9 @@
+alice,0,5
+alice,1,4
+bob,0,4
+bob,1,5
+bob,2,5
+carol,0,5
+carol,1,4
+carol,2,4
+carol,3,4

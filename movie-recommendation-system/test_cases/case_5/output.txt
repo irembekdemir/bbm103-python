@@ -1,0 +1,14 @@
+Recommendations for alice:
+1. Movie High (rated 5/5 by similar users: bob)
+2. Movie Popular (rated 4/5 by similar users: bob, carol, dave)
+3. Movie Single (rated 4/5 by similar users: bob)
+
+Recommendations for bob:
+
+Recommendations for carol:
+1. Movie High (rated 5/5 by similar users: bob)
+2. Movie Single (rated 4/5 by similar users: bob)
+
+Recommendations for dave:
+1. Movie High (rated 5/5 by similar users: bob)
+2. Movie Single (rated 4/5 by similar users: bob)

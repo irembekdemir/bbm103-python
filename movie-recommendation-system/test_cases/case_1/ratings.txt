@@ -1,0 +1,13 @@
+alice,0,5
+alice,1,4
+alice,2,5
+alice,4,3
+bob,0,4
+bob,2,5
+bob,3,5
+bob,5,4
+eve,4,5
+eve,5,5
+eve,6,4
+eve,8,3
+eve,9,5

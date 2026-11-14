@@ -1,0 +1,14 @@
+Recommendations for alice:
+1. Pulp Fiction (rated 5/5 by similar users: bob)
+2. Forrest Gump (rated 4/5 by similar users: bob)
+
+Recommendations for bob:
+1. Fight Club (rated 5/5 by similar users: eve)
+2. The Silence of the Lambs (rated 5/5 by similar users: eve)
+3. The Godfather (rated 4/5 by similar users: alice)
+4. The Matrix (rated 4/5 by similar users: eve)
+
+Recommendations for eve:
+1. Pulp Fiction (rated 5/5 by similar users: bob)
+2. The Dark Knight (rated 5/5 by similar users: bob) 
+3. The Shawshank Redemption (rated 4/5 by similar users: bob)

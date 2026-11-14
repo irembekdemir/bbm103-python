@@ -1,0 +1,4 @@
+Recommendations for alice:
+1. Movie 11 (rated 5/5 by similar users: bob)
+
+Recommendations for bob:
