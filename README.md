@@ -21,6 +21,14 @@ An advanced, multi-featured shopping cart software that bridges modular business
 - **Highlights:** Uses strict input type-guards (`is_int`, `is_float`) to ensure data sanitization.
 - **Note:** *The foundational PyQt5 GUI template was provided by the course instructor; all core computational backend functions, cart control algorithms, and logic integrations were independently engineered and implemented by me.*
 
+### 3. Movie Recommendation System 🎬 (`movie-recommendation`)
+A command-line recommendation engine that reads movies and user ratings from text files and suggests unwatched movies to each user based on users with similar taste. The same problem is solved twice with different data structures.
+- **Interface:** File-based CLI. Takes three command line arguments (movies file, ratings file, output file) and writes the recommendations to the output file.
+- **Part 1 (`main_p1.py`):** Built with lists and 2D lists (`ratings[i][m]`, `sim[i][j]`).
+- **Part 2 (`main_p2.py`):** Rebuilt with dictionaries and tuples (`{username: [(movie_index, rating), ...]}` and `{(user1, user2): score}`), storing each user pair only once.
+- **Logic Matrix:** Similarity is the share of common movies rated within 1 point of each other. Users with a score of 0.7 or more count as similar, and only ratings of 4 or higher produce a recommendation. Results are sorted by highest rating, number of recommending users, then title.
+- **Highlights:** Uses only the standard library, with documented functions (docstrings with `Args` and `Returns`) and a separate README inside the project folder.
+
 ---
 
 ## Global Core Technologies
@@ -38,7 +46,7 @@ Every project inside this collection is optimized to run efficiently within sepa
 
 1. **Clone the entire portfolio:**
    ```bash
-   git clone [https://github.com/irembekdemir/python-beginner-projects.git](https://github.com/irembekdemir/python-beginner-projects.git)
+   git clone https://github.com/irembekdemir/python-beginner-projects.git
    cd python-beginner-projects
    ```
 
@@ -64,7 +72,14 @@ pip install PyQt5         # if running the Smart Cart
 pip install customtkinter openpyxl  # if running the Cute To-Do App
 ```
 
+5. **Run your project:**
+
+```bash
+# Movie Recommendation System (no extra packages needed)
+cd movie-recommendation
+python main_p1.py movies.txt ratings.txt output.txt
+python main_p2.py movies.txt ratings.txt output.txt
+```
+
 Developer Profile
 @irembekdemir
-
-
